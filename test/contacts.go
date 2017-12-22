@@ -1,8 +1,8 @@
 package test
 
 import (
-	"github.com/CircleCI-Public/circleci-demo-go/service"
 	"github.com/stretchr/testify/require"
+	"github.com/danlmarmot/circleci-demo-go/service"
 )
 
 // SetupContact creates a Contact for use in tests. How it creates the contact is an implementation detail, but it
